@@ -97,7 +97,6 @@ Next, we will populate our database and use the frontend provided by jet stream 
 Finally, We will have a look at the Jetstream dashboard, the Inertia/Vue Components and then start playing around.
 We will disable the registration, enable the Jetstream user profile picture feature and then add our first Inertia page where render some data taken from the database.
 
-<https://youtu.be/c0ibec9dhZA>
 
 If you are reading this article here are all the steps
 
@@ -1583,11 +1582,7 @@ I will leave you some home work. Can you figure out how to implement the view an
 
 I hope you enjoyed this guide. If so, leave a comment and consider to subscribe to my YouTube channel and follow me on twitter. And if you get stuck, get in touch for help.
 
-You can find the source code for this guide on my bitbucket account:
-[Article](https://bitbucket.org/fbhood/spa-with-laravel-9/src/master/)
-[Application](https://bitbucket.org/fbhood/serephotos-v2/src/dev/)
-[Some Live Coding on my YouTube Account](https://youtube.com/playlist?list=PL-qez5yxvgfgRDUG7P850dMAmwGZLlJj3)
-[Twitter](https://twitter.com/Fab_Sky_Walker)
+
 
 ## Conclusions
 
